@@ -1,6 +1,6 @@
 
 
-var mins
+var mins;
 var secs;
 
 function cd() {
